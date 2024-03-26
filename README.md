@@ -1,5 +1,7 @@
 # Hybrid-Net
 
+Real-time audio source separation, generate lyrics, chords, beat.
+
 A transformer-based hybrid multimodal model, various transformer models address different problems in the field of music information retrieval, these models generate corresponding information dependencies that mutually influence each other.
 
 An AI-powered multimodal project focused on music, generate chords, beats, lyrics, melody, and tabs for any song.
