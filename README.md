@@ -2,7 +2,7 @@
 
 A transformer-based hybrid multimodal model, various transformer models address different problems in the field of music information retrieval, these models generate corresponding information dependencies that mutually influence each other.
 
-An AI-powered multimodal project focused on music. Get chords, beats, lyrics, melody, and tabs for any song.
+An AI-powered multimodal project focused on music, generate chords, beats, lyrics, melody, and tabs for any song.
 
 > The online experience, [See the site here](https://lamucal.ai)  
  
