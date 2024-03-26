@@ -7,10 +7,10 @@ A transformer-based hybrid multimodal model, various transformer models address 
 An AI-powered multimodal project focused on music, generate chords, beats, lyrics, melody, and tabs for any song.
 
 > The online experience, [See the site here](https://lamucal.ai)  
+
+ <img src='./image/tnn.png'  style="width: 750px;" > 
  
 <img src='./image/model.png'  style="width: 950px;" >   
-
-<img src='./image/tnn.png'  style="width: 950px;" >
 
 `U-Net` network model for audio source separation, `Pitch-Net`, `Beat-Net`, `Chord-Net` and `Segment-Net` based on the transformer model. Apart from establishing the correlation between the frequency and time, the most important aspect is to establish the mutual influence between different networks.   
 
