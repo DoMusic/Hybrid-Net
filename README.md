@@ -6,7 +6,7 @@ A transformer-based hybrid multimodal model, various transformer models address 
 
 An AI-powered multimodal project focused on music, generate chords, beats, lyrics, melody, and tabs for any song.
 
-> The online experience, [See the site here](https://lamucal.ai)  
+> The online experience, [See the site here](https://lamucal.com)  
 
  <img src='./image/tnn.png'  style="width: 750px;" > 
  
@@ -33,10 +33,6 @@ The entire AI-powered process is implemented in `aitabs.py`, while the various n
 
 - **Other**, audio source separation, speed adjustment, pitch shifting, etc.      
 
-For more AI-powered feature experiences, see the [website](https://lamucal.ai): 
-
-<p align="center">
-  <a href="https://lamucal.ai/"><img  height=50 src="image/website.png" alt="Lamucal.ai"></a>
-</p>
+For more AI-powered feature experiences, see the [website](https://lamucal.com): 
 
 
