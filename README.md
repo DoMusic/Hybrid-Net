@@ -44,8 +44,8 @@ data and minimal training, it can achieve better results.
 > The online experience, [See the site here](https://lamucal.com/ai-cover) 
 
 
-<img src='./doc/image/net1.png'  style="width: 950px;" >   
-<img src='./doc/image/net2.png'  style="width: 950px;" >   
+<img src='./image/net1.png'  style="width: 950px;" >   
+<img src='./image/net2.png'  style="width: 950px;" >   
 
 The model begins by processing the audio signal through a `U-Net`, which isolates the vocal track. 
 The vocal track is then simultaneously fed into `PitchNet` and `HuBERT` (Wav2Vec2). `PitchNet` is 
